@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best school" > file
+echo "Best school" > \*\\' "Best school"\'\\*
